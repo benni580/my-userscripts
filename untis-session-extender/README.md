@@ -13,7 +13,7 @@ The script works by silently sending a lightweight request to the server every f
 1.  Ensure you have a [Userscript Manager](https://github.com/benni580/my-userscripts) installed.
 2.  Click the link below to install:
 
-    [**⬇️ Install Script**](https://raw.githubusercontent.com/benni580/my-userscripts/refs/heads/main/untis-session-extender.user.js)
+    [**⬇️ Install Script**](https://raw.githubusercontent.com/benni580/my-userscripts/refs/heads/main/untis-session-extender/untis-session-extender.user.js)
 
 ## Configuration
 

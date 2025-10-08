@@ -48,8 +48,8 @@ Scripts designed to improve the WebUntis experience.
 
 | Script Name | Description | Details & Config | Install |
 | :--- | :--- | :---: | :---: |
-| **Session Extender** | Prevents automatic logout from inactivity. | [**Read Me**](./untis-session-extender/README.md) | [**Install**](https://raw.githubusercontent.com/benni580/my-userscripts/main/untis-session-extender.user.js) |
-| **Redirector Watcher** | Redirects you to the timetable after login. | [**Read Me**](./untis-redirect-watcher/README.md) | [**Install**](https://raw.githubusercontent.com/benni580/my-userscripts/main/untis-redirect-watcher.user.js) |
+| **Session Extender** | Prevents automatic logout from inactivity. | [**Read Me**](./untis-session-extender/README.md) | [**Install**](https://raw.githubusercontent.com/benni580/my-userscripts/refs/heads/main/untis-session-extender/untis-session-extender.user.js) |
+| **Redirector Watcher** | Redirects you to the timetable after login. | [**Read Me**](./untis-redirect-watcher/README.md) | [**Install**](https://raw.githubusercontent.com/benni580/my-userscripts/refs/heads/main/untis-redirect-watcher/untis-redirect-watcher.user.js) |
 
 ---
 

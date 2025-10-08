@@ -13,7 +13,7 @@ WebUntis is a Single Page Application (SPA), which means it doesn't fully reload
 1.  Ensure you have a [Userscript Manager](https://github.com/benni580/my-userscripts#prerequisites) installed.
 2.  Click the link below to install:
 
-    [**➡️ Install Script**](https://raw.githubusercontent.com/benni580/my-userscripts/refs/heads/main/untis-redirect-watcher.user.js)
+    [**⬇️ Install Script**](https://raw.githubusercontent.com/benni580/my-userscripts/refs/heads/main/untis-redirect-watcher/untis-redirect-watcher.user.js)
 
 ## Configuration
 
