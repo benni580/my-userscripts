@@ -4,8 +4,8 @@
 // @description  Prevents automatic logout on elearning.tgm.ac.at by silently refreshing the session.
 // @author       Benjamin Gyemant
 // @match        https://elearning.tgm.ac.at/*
-// @downloadURL  https://raw.githubusercontent.com/benni580/my-userscripts/main/elearning-session-extender/elearning-session-extender.user.js
-// @updateURL    https://raw.githubusercontent.com/benni580/my-userscripts/main/elearning-session-extender/elearning-session-extender.user.js
+// @downloadURL  https://raw.githubusercontent.com/benni580/my-userscripts/refs/heads/main/elearning-session-extender/elearning-session-extender.user.js
+// @updateURL    https://raw.githubusercontent.com/benni580/my-userscripts/refs/heads/main/elearning-session-extender/elearning-session-extender.user.js
 // @grant        none
 // ==/UserScript==
 

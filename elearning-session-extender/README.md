@@ -13,7 +13,7 @@ The script works by silently sending a lightweight request to the server every 1
 1.  Ensure you have a [Userscript Manager](https://github.com/benni580/my-userscripts#step-1-install-a-userscript-manager) installed.
 2.  Click the link below to install:
 
-    [**⬇️ Install Script**](https://raw.githubusercontent.com/benni580/my-userscripts/main/elearning-session-extender/elearning-session-extender.user.js)
+    [**⬇️ Install Script**](https://raw.githubusercontent.com/benni580/my-userscripts/refs/heads/main/elearning-session-extender/elearning-session-extender.user.js)
 
 ## Configuration
 

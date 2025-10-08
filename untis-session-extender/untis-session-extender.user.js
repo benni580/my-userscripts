@@ -4,8 +4,8 @@
 // @description  Prevents automatic logout in WebUntis by silently refreshing the session in the background.
 // @author       Benjamin Gyemant
 // @match        https://*.webuntis.com/*
-// @downloadURL  https://raw.githubusercontent.com/benni580/my-userscripts/main/session-extender/untis-session-extender.user.js
-// @updateURL    https://raw.githubusercontent.com/benni580/my-userscripts/main/session-extender/untis-session-extender.user.js
+// @downloadURL  https://raw.githubusercontent.com/benni580/my-userscripts/refs/heads/main/session-extender/untis-session-extender.user.js
+// @updateURL    https://raw.githubusercontent.com/benni580/my-userscripts/refs/heads/main/session-extender/untis-session-extender.user.js
 // @grant        none
 // ==/UserScript==
 

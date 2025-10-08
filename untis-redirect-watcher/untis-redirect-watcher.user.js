@@ -4,8 +4,8 @@
 // @description  Actively watches for the /today page after login and clicks the timetable link. Works with SPAs.
 // @author       Benjamin Gyemant
 // @match        https://*.webuntis.com/*
-// @downloadURL  https://raw.githubusercontent.com/benni580/my-userscripts/main/smart-redirector/untis-redirect-watcher.user.js
-// @updateURL    https://raw.githubusercontent.com/benni580/my-userscripts/main/smart-redirector/untis-redirect-watcher.user.js
+// @downloadURL  https://raw.githubusercontent.com/benni580/my-userscripts/refs/heads/main/smart-redirector/untis-redirect-watcher.user.js
+// @updateURL    https://raw.githubusercontent.com/benni580/my-userscripts/refs/heads/main/smart-redirector/untis-redirect-watcher.user.js
 // @grant        none
 // ==/UserScript==
 
