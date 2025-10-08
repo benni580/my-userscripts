@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         untis-session-extender
+// @version      1.1
 // @description  Prevents automatic logout in WebUntis by silently refreshing the session in the background.
 // @author       You
 // @match        https://*.webuntis.com/*
