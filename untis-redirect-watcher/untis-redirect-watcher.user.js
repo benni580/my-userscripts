@@ -2,7 +2,7 @@
 // @name         untis-redirect-watcher
 // @version      1.1
 // @description  Actively watches for the /today page after login and clicks the timetable link. Works with SPAs.
-// @author       You
+// @author       Benjamin Gyemant
 // @match        https://*.webuntis.com/*
 // @downloadURL  https://raw.githubusercontent.com/benni580/my-userscripts/main/smart-redirector/untis-redirect-watcher.user.js
 // @updateURL    https://raw.githubusercontent.com/benni580/my-userscripts/main/smart-redirector/untis-redirect-watcher.user.js
