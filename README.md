@@ -53,6 +53,16 @@ Scripts designed to improve the WebUntis experience.
 
 ---
 
+### Elearning
+
+Scripts designed to improve the TGM Elearning (Moodle) experience.
+
+| Script Name | Description | Details & Config | Install |
+| :--- | :--- | :---: | :---: |
+| **Session Extender** | Prevents automatic logout from inactivity. | [**Read Me**](./elearning-session-extender/README.md) | [**Install**](https://raw.githubusercontent.com/benni580/my-userscripts/refs/heads/main/elearning-session-extender/elearning-session-extender.user.js) |
+
+
+
 ## How This Repository is Organized
 
 This project is structured to be easy to maintain and expand.
