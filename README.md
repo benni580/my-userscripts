@@ -1,14 +1,40 @@
 # My Userscript Collection
 
-A collection of my Userscripts. They're here to fix small annoyances and automate repetitive tasks on the websites I use.
+A collection of personal Userscripts designed to fix small annoyances and automate repetitive tasks on the websites I use.
 
-## How to Use These Scripts
+## How to Install a Script
 
-To use any of these scripts, you first need a **Userscript Manager**. This is a browser extension that runs the code. Pick the right one for your browser and install it before you continue.
+Follow these steps to get any of the scripts below working in your browser.
+
+### Step 1: Install a Userscript Manager
+
+You need to install a browser extension that can run these scripts. This only needs to be done once. Choose the right one for your browser:
 
 *   **Firefox:** [**Tampermonkey**](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) (Recommended)
 *   **Chrome:** [**Tampermonkey**](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) (Recommended)
-*   **Safari:** [**Userscripts**](https://apps.apple.com/app/userscripts/id1463298887) (Free & Open Source)
+*   **Safari:** [**Userscripts**](https://apps.apple.com/app/userscripts/id1463298887) (Free)
+
+### Step 2: Install the Script
+
+This can be done in two ways. Try the Easy Way first.
+
+#### The Easy Way (1-Click Install)
+
+1.  In the list below, find the script you want.
+2.  Click the **[Install]** link for that script.
+3.  Your Userscript Manager *should* open a new tab and ask you to confirm the installation. Just click "Install" there, and you're done!
+
+#### The Manual Way (If the Easy Way Fails)
+
+Sometimes, especially on Safari, clicking the install link will just show you a page full of code. If that happens, don't worry. Just do this:
+
+1.  Click the **[Install]** link for the script you want. You will see a page of code.
+2.  Copy all the code.
+3.  Open your Userscript Manager's dashboard.
+4.  Find the button to create a new script (it's often a **`+`** icon).
+5.  Delete any template code in the new editor window.
+6.  Paste your copied code into the empty editor.
+7.  Save the script.
 
 ## Available Scripts
 
